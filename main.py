@@ -5,7 +5,7 @@ import requests,time,re,json,random
 
 now = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
 headers = {
-        'User-Agent': 'Dalvik/2.1.0 (Linux; U; Android 9; MI 6 MIUI/20.6.18)'
+        'User-Agent': 'Dalvik/2.1.0 (Linux; U; Android 10; MI 8 MIUI/20.9.4)'
         }
  
 #获取登录code
